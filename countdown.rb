@@ -5,5 +5,5 @@ def countdown(integer)
     integer-=1
     puts integer
   end
-    puts "HAPPY NEW YEAR!"
+    "HAPPY NEW YEAR!"
 end
