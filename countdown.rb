@@ -2,7 +2,7 @@
 
 def countdown(integer)
   while integer > 0 
-    sleep(1)
+    sleep(5)
     integer-=1
     puts integer
     
